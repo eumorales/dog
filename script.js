@@ -18,4 +18,4 @@ async function randomCachorro() {
 }
 
 randomCachorro();
-setInterval(randomCachorro, 5000);
+setInterval(randomCachorro, 2500);
