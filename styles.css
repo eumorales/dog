@@ -1,0 +1,48 @@
+
+body, h1, button {
+    font-family: 'Poppins', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    font-family: Arial, sans-serif;
+    text-align: center;
+}
+
+h1 {
+    font-size: 50px;
+    margin: 10px 0;
+    margin-top: 5rem;
+}
+
+p {
+    margin: 0;
+}
+
+#imagem-container {
+    margin: 3rem auto;
+    max-width: 80%;
+    background-color: #fff;
+    padding: 20px;
+    
+}
+
+#imagem {
+    max-width: 100%;
+    box-shadow: 0px 0px 5px rgba(0, 0, 0, 0.3);
+    width: 500px; 
+    height: 500px; 
+    object-fit: cover; 
+
+}
+
+.footer {
+    text-align: center;
+    padding: 1rem 0;
+    background-color: #f0f0f0;
+    width: 100%;
+    position: fixed;
+    bottom: 0;
+    left: 0;
+  }
